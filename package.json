@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bug-clinic": "^1.1.6",
+    "concat-stream": "^2.0.0",
     "currying-workshopper": "^1.0.17",
     "how-to-markdown": "^1.6.0",
     "how-to-npm": "^2.5.1",
@@ -9,6 +10,10 @@
     "learnyounode": "^3.5.10",
     "pattern-lab-workshop": "^1.0.6",
     "planetproto": "^0.9.0",
-    "stream-adventure": "^4.1.1"
+    "request": "^2.88.0",
+    "stream-adventure": "^4.1.1",
+    "through2": "^3.0.0",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.1.2"
   }
 }
